@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Mark. "Sponsored By Mark!" is the handle under which I make things nowadays. What do I make? Lots of things. I write & record music, write blog posts and articles, and occasionally a video or podcast episode. I also enjoy talking about sociopolitical issues, mainly concerning the size/overreach of governments, ethics in technology, and a little bit of economics. Any links relevant to the things I do can be found elsewhere on this website. If you want to see this site's source code, [here ya go](https://github.com/SponsoredByMark/sponsoredbymark.github.io).
