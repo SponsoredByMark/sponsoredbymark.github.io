@@ -1,5 +1,6 @@
 # Microblog - Sponsored By Mark!
 
+* **25th November 2017 @ 3:23PM** wrote a script that makes it *much* easier to update this website on a regular basis. maybe i'll be better at maintaining this microblog more frequently?
 * **8th November 2017 @ 10:19AM:** [i set up my recommended album page on bandcamp. check it.](https://bandcamp.com/recommended/marksilver)
 * **21st October 2017 @ 11:03AM:** I\'m gonna get started on writing an article that explains why I\'m no longer using social media. Should I post it to social media?
 * **16th October 2017 @ 8:32PM:** Watching a few ricing videos convinced me to give the i3 window manager a try. Long story short: I\'m really diggin\' it, and I intend to do alot of playing around with i3 in the foreseeable future.
