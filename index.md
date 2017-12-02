@@ -9,6 +9,7 @@
 
 * Moonlight Gaze (Original): [Listen](https://marksilver.bandcamp.com/track/moonlight-gaze) / [Download](https://sponsoredbymark.github.io/jazz/Moonlight_Gaze.zip)
 * Moonlight Gaze (Jazz Ensemble): [Listen](https://marksilver.bandcamp.com/track/moonlight-gaze-jazz-ensemble) / [Download](https://sponsoredbymark.github.io/jazz/Moonlight_Gaze_Big_Band.zip)
+* It's Funktastic!: [Listen](https://marksilver.bandcamp.com/track/its-funktastic) / [Download](https://sponsoredbymark.github.io/jazz/Its_Funktastic.zip)
 
 ## About Me
 
